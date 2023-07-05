@@ -210,7 +210,6 @@ nav a.active {
         ". box4 ."
         ". box5 ."
         ". box6 .";
-        overflow-x: hidden;
     }
 
     nav {
@@ -239,7 +238,7 @@ nav a.active {
     }
 
     .box6 {
-        margin-bottom: 120px;
+        padding-bottom: 120px;
     }
 
 }
