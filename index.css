@@ -209,6 +209,7 @@ nav a.active {
         ". box5 ."
         ". box6 .";
         overflow-x: hidden;
+        margin-bottom: 80px;
     }
 
     nav {
