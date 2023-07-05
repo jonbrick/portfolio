@@ -5,10 +5,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(images/JB_BG.png);
-    background-repeat: no-repeat;
-    background-position: top center;
+}
+
+.grid {
+    background: url(images/JB_BG.png) top center no-repeat;
     background-size: 100%;
+    background-attachment: local;
 }
 
 /* Utility */
