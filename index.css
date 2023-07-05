@@ -5,7 +5,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(images/JB_Portfolio_BG.png);
+    background-image: url(images/JB_BG.png);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100%;
@@ -224,6 +224,14 @@ nav a.active {
 
     .box1, .box2, .box3 {
         padding-right: 0px;
+    }
+
+    .box4 {
+        margin-top: 24px;
+    }
+
+    .box5, .box6 {
+        margin-bottom: 24px;
     }
 }
 
