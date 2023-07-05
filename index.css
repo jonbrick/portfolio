@@ -211,7 +211,6 @@ nav a.active {
         ". box5 ."
         ". box6 .";
         overflow-x: hidden;
-        margin-bottom: 80px;
     }
 
     nav {
@@ -235,9 +234,14 @@ nav a.active {
         margin-top: 24px;
     }
 
-    .box5, .box6 {
+    .box5 {
         margin-bottom: 24px;
     }
+
+    .box6 {
+        margin-bottom: 120px;
+    }
+
 }
 
 /* .nav, .box2, .box1, .box2, .box3, .box4, .box5, .box6 {
